@@ -7,7 +7,7 @@ const Navigation = () => {
     <div>
       <div className="header">
         <div className="logo">
-          <NavLink className="navActive" to="/">
+          <NavLink className="navActive" to="/boutiquemode">
             Akn <span>Shop</span>
           </NavLink>
         </div>
