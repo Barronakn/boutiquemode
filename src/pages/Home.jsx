@@ -9,9 +9,9 @@ const Home = () => {
         <Navigation />
         <div className="homeContainer">
           <div className="homeImg">
-            <img src="/womanPic.png" alt="" />
+            <img src="/dist/womanPic.png" alt="womanPic" />
             <h1 className="homeTitle">Welcome to Akn Shop</h1>
-            <img src="/hommePic.png" alt="" />
+            <img src="/dist/hommePic.png" alt="hommePic" />
           </div>
         </div>
       </div>
