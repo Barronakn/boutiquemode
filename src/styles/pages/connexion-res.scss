@@ -1,0 +1,28 @@
+@media screen and (max-width: 528px) {
+  .connexion {
+    width: 300px;
+  }
+  .connexion input {
+    width: 150px;
+    height: 30px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .connexion h1 {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .connexion {
+    width: 200px;
+  }
+  .connexion form {
+    margin-left: -12px;
+  }
+  .connexion input {
+    width: 120px;
+    height: 20px;
+  }
+}
