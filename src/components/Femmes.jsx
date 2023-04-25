@@ -5,28 +5,28 @@ const Femmes = () => {
   const femmes = [
     {
       id: 0,
-      img: "/dist/chouette-idée-robe-moderne-tenue-africaine-femme-chic-idée-modele-robe-africaine-moderne-chic-removebg-preview.png",
+      img: "./chouette-idée-robe-moderne-tenue-africaine-femme-chic-idée-modele-robe-africaine-moderne-chic-removebg-preview.png",
       name: "Robe",
       price: 10000 + " Fcfa",
       add: "Ajouter au panier",
     },
     {
       id: 1,
-      img: "/dist/couture-africaine-1-removebg-preview.png",
+      img: "./couture-africaine-1-removebg-preview.png",
       name: "Robe",
       price: 10000 + " Fcfa",
       add: "Ajouter au panier",
     },
     {
       id: 2,
-      img: "/dist/d857fe1c64e43da5e5e61123b83c4b61-removebg-preview.png",
+      img: "./d857fe1c64e43da5e5e61123b83c4b61-removebg-preview.png",
       name: "Robe",
       price: 10000 + " Fcfa",
       add: "Ajouter au panier",
     },
     {
       id: 3,
-      img: "/dist/femmes.png",
+      img: "./femmes.png",
       name: "Robe",
       price: 10000 + " Fcfa",
       add: "Ajouter au panier",
