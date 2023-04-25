@@ -1,8 +1,8 @@
 import Navigation from "../components/Navigation";
 import Boutique from "../components/Boutique";
 import Footer from "../components/Footer";
-import womanPic from "/dist/womanPic.png";
-import hommePic from "/dist/hommePic.png";
+import womanPic from "/boutiquemode/dist/womanPic.png";
+import hommePic from "/boutiquemode/dist/hommePic.png";
 
 const Home = () => {
   return (
