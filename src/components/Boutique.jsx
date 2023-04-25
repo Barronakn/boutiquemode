@@ -9,24 +9,24 @@ const Boutique = () => {
       </div>
       <div className="boutiqueContainer">
         <div className="homme translate column">
-          <img src="./Hommes.png" alt="" />
+          <img src="/dist/Hommes.png" alt="" />
           <NavLink to="/modèleshommes">Modèles hommes</NavLink>
         </div>
         <div className="enfants translate">
           <div className="childs">
-            <img src="./garçons.png" alt="" />
-            <img src="./fillettes.png" alt="" />
+            <img src="/dist/garçons.png" alt="" />
+            <img src="/dist/fillettes.png" alt="" />
           </div>
           <NavLink className="absolute" to="/modèlesenfants">
             Modèles enfants
           </NavLink>
         </div>
         <div className="femme translate column">
-          <img src="./femmes.png" alt="" />
+          <img src="/dist/femmes.png" alt="" />
           <NavLink to="/modèlesfemmes">Modèles femmes</NavLink>
         </div>
         <div className="couple translate column">
-          <img src="./couples.png" alt="" />
+          <img src="/dist/couples.png" alt="" />
           <NavLink to="/modèlescouples">Modèles couples</NavLink>
         </div>
       </div>
